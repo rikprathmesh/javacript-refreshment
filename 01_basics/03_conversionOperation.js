@@ -33,9 +33,32 @@ let isFilled = undefined
 
 let someNumber = 10
 
-let convertedNum = String(someNumber)
-console.log(convertedNum);
-console.log(typeof convertedNum);
+// let convertedNum = String(someNumber)
+// console.log(convertedNum);
+// console.log(typeof convertedNum);
+
+
+// ###################### Operations ###############################
+
+let value = 3
+let negValue = -value
+// console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%2);
+
+let str1 = "hello"
+let str2 = " world"
+// console.log(str1 + str2);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
 
 
 
